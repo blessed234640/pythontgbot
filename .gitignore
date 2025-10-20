@@ -1,0 +1,36 @@
+# API ключи и секреты
+.env
+.env.local
+*.key
+*.pem
+
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Файлы с музыкой
+*.mp3
+*.wav
+*.ogg
+track.*
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Папки с музыкой (если не хотите их коммитить)
+skrip/
+skripF/
